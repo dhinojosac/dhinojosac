@@ -24,11 +24,11 @@ Beyond electronics, I create 3D models in Fusion 360 and prepare them for printi
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhinojosac&theme=default)
 
 ## 📌 Pinned Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhinojosac&repo=ts-template-mcp)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhinojosac&repo=gowazapp)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhinojosac&repo=STM32F4_RT_DSP)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhinojosac&repo=attiny85_avr_blink)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhinojosac&repo=pdf_watermarker_gui)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhinojosac&repo=ts-template-mcp)](https://github.com/dhinojosac/gts-template-mcp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhinojosac&repo=gowazapp)](https://github.com/dhinojosac/gowazapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhinojosac&repo=STM32F4_RT_DSP)](https://github.com/dhinojosac/STM32F4_RT_DSP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhinojosac&repo=attiny85_avr_blink)](https://github.com/dhinojosac/attiny85_avr_blink)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhinojosac&repo=pdf_watermarker_gui)](https://github.com/dhinojosac/pdf_watermarker_gui)
 
 
 ## 📫 Let's Connect
